@@ -10,6 +10,9 @@ python3 main.py
 
 Requirements
 -------------------
+[JiTCDDE](https://github.com/neurophysik/jitcdde) is an just-in-time compilation for delay differential equations (DDEs). If allows one to integrate delay differential equations with adaptive step sizes and stiffness detection.
+
+To install JiTCDDE, run the following command in the terminal:
 ```bash
 pip3 install jitcdde
 ```

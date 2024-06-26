@@ -53,8 +53,11 @@ python main_amcd.py
 
 [1] K. Neklyudov, R. Brekelmans, D. Severo, A. Makhzani, Action Matching: Learning Stochastic Dynamics from Samples,
 International Conference on Machine Learning (2023) 25858–25889,arXiv:2210.06662.
+
 [2] J. Losson, M. C. Mackey, R. Taylor, M. Tyran-Kami´nska, Density Evolution Under Delayed Dynamics: An Open Problem,
 Vol. 38 of Fields Institute Monographs, Springer US, New York, 2020.
+
 [3] P. Vlachas, J. Pathak, B. Hunt, T. Sapsis, M. Girvan, E. Ott, P. Koumoutsakos, Backpropagation algorithms and Reservoir
 Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics, Neural Networks 126 (2020)
+
 [4] L. Li, S. Hurault, J. Solomon, Self-Consistent Velocity Matching of Probability Flows, Advances in Neural Information Processing Systems 36,2023
